@@ -66,4 +66,6 @@ This script will report where a variable in the template file was not satisifed 
 
 [MIT Licence](LICENCE.md)
 
-<a href="https://www.buymeacoffee.com/gbro3n"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=gbro3n&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+## Buy Me a Coffee
+
+https://www.buymeacoffee.com/gbro3n
