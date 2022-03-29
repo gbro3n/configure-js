@@ -61,3 +61,9 @@ This script will report where a variable in the environment file was not referen
 ### Reporting on Missing Variables in Envrionment Files
 
 This script will report where a variable in the template file was not satisifed by the environment file.
+
+## Licence
+
+[MIT Licence](LICENCE.md)
+
+<a href="https://www.buymeacoffee.com/gbro3n" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
