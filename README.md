@@ -1,6 +1,6 @@
 # Configure JS
 
-Replace shell-format environment variables recursively. Provides capability in development environments similar to [envsubst](https://www.gnu.org/software/gettext/manual/html_node/envsubst-Invocation.html)
+Replace shell-format environment variables recursively. Provides capability in development environments similar to [envsubst](https://www.gnu.org/software/gettext/manual/html_node/envsubst-Invocation.html) with some additional features.
 
 ## How it works
 
