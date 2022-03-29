@@ -64,7 +64,7 @@ This script will report where a variable in the template file was not satisifed 
 
 ## Licence
 
-[MIT Licence](LICENCE.md)
+[MIT Licence](LICENSE.md)
 
 ## Buy Me a Coffee
 
