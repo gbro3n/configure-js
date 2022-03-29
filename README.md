@@ -25,7 +25,7 @@ and a template file:
 }
 ```
 
-Run the following command from within the top level directory from which recursive search should start:
+Include this script in your source and run the following command from within the top level directory from which recursive search should start:
 
 ```
 node configure.js appsettings.development.env
