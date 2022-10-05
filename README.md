@@ -28,8 +28,10 @@ and a template file:
 Include this script in your source and run the following command from within the top level directory from which recursive search should start:
 
 ```
-node configure.js appsettings.development.env
+node configure.js appsettings.development.env .
 ```
+
+Note above there are 2 arguments, the first (`appsettings.development.env`) being the name of the environment file, with the second (`.`) being the starting path for recursive template file search. 
 
 In this case this would produce the file:
 

@@ -187,8 +187,9 @@ var recurseFindEnvTemplates = function (dir, environmentName, envVariables) {
 
 const argsArray = process.argv.slice(2);
 
-if (argsArray.length === 1) {
+if (argsArray.length === 2) {
   const envVariablesFileName = argsArray[0];
+  const initPath = argsArray[1];
 
   if (envVariablesFileName.endsWith('.env')) {
 
@@ -276,7 +277,7 @@ if (argsArray.length === 1) {
       }
     }
 
-    recurseFindEnvTemplates('.', environmentName, envVariables);
+    recurseFindEnvTemplates(initPath, environmentName, envVariables);
 
     // Log out any warnings in yellow
 
